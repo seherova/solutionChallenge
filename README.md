@@ -1,16 +1,8 @@
-# meditation_app
+# Solution Challenge
 
-A new Flutter project.
+##  Support App
+The earthquake that hit the Turkiye on February 6, 2023 made all of us deeply upset. Even we are psychologically affected so much. We empathized with other students that affected by earthquake. So we decided to develop an app to help them.
 
-## Getting Started
+We aim to reduce inequalities arising from unusual situations like this disaster. Our app provides access to psychological support by volunteer psychologists, educational support by volunteer teachers and other students. There is a section that people can share their books to other students in need. Also, there is a donation field to support students. We want to make the process easier for students that are affected by disasters.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
